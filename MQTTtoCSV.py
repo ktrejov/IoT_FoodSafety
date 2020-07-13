@@ -25,7 +25,7 @@ def on_message(client, userdata, msg):
     message = str(msg.payload)
     message = message[2:-1]
     try:
-        temp = float(message)
+        temp = int(message)/100
         localtime = str(time.asctime(time.localtime(time.time())))
         add_data(temp,localtime,DF,ENTRIES)
         add_data(temp,localtime,lastList,ENTRIES)
