@@ -11,14 +11,9 @@ root.title('This is my root window')
 root.state('zoomed')
 root.config(background='#fafafa')
 
-xar = []
-yar = []
-
 style.use('ggplot')
 fig = plt.figure(figsize=(14, 4.5), dpi=100)
 ax1 = fig.add_subplot(1, 1, 1)
-ax1.set_ylim(0, 100)
-line, = ax1.plot(xar, yar, 'r', marker='o')
 
 def animate(i):
     yList = []
