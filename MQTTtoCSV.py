@@ -6,6 +6,7 @@ MIN_TEMP = 32
 MAX_TEMP = 50
 LAST_LEN = 24
 
+
 lastList = "last_list.csv"
 
 
