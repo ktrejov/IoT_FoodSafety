@@ -10,14 +10,23 @@ Summary
 Students will design an Internet of Things platform that will support applications that could be used by farmers, retailers, the government, analysts and consumers.
 
 Students Involved:
+
 Alshammari, Nahar
+
 Arras, Jorge
+
 Kennemur, Jamey
+
 Smolky, Danielle
+
 Trejo, Kevin
 
 Advisors:
+
 Dr Delia Valles
+
 Dr Efren Delgado
+
 Dr Young Park
+
 
