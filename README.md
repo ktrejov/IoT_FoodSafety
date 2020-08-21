@@ -1,5 +1,5 @@
 # IoT_FoodSafety
-NMSU CAPSTONE PROJECT
+**NMSU CAPSTONE PROJECT**
 
 Background
 
@@ -9,7 +9,7 @@ Summary
 
 Students will design an Internet of Things platform that will support applications that could be used by farmers, retailers, the government, analysts and consumers.
 
-Students Involved:
+**Students Involved:**
 
 Alshammari, Nahar
 
@@ -21,7 +21,7 @@ Smolky, Danielle
 
 Trejo, Kevin
 
-Advisors:
+**Advisors:**
 
 Dr Delia Valles
 
